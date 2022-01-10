@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Developers Helper</string>
+    <string name="developers_helper">Developers Helper</string>
+    <string name="helping_developers_to_choose_perfect_learning_path">Helping Developers To Choose Perfect Learning Path</string>
+    <string name="logo">Logo</string>
+    <string name="next">Continue</string>
+    <string name="what_do_you_want_to_learn">What Do You Want To Learn?</string>
+    <string name="title_activity_block_chain_development">BlockChainDevelopment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

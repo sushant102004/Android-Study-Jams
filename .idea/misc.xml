@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/drawable/FrontendImage1_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/layout/activity_app_development.xml" value="0.25" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/layout/activity_backend.xml" value="0.25" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/layout/activity_block_chain_development.xml" value="0.25" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/layout/activity_block_chain_development2.xml" value="0.25" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/layout/activity_blockchain.xml" value="0.25" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/layout/activity_front_end.xml" value="0.25" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/mipmap-anydpi-v26/FrontendImage1.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14322916666666666" />
+        <entry key="..\:/Android/DevelopersHelper/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14322916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
